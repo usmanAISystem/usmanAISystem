@@ -1,3 +1,4 @@
+![Banner](WhatsApp%20Image%202026-09-30%20at%205.26.37%20AM.jpg)
 <h1 align="center">Hi, I'm Mohammad Usman 👋</h1>
 
 <h3 align="center">Agentic AI Developer | Building Intelligent AI Systems & Automation</h3>
