@@ -4,7 +4,7 @@
 <h3 align="center">Agentic AI Developer | Building Intelligent AI Systems & Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Agents;LangChain+%7C+LangGraph+%7C+CrewAI+Expert;Python+%7C+FastAPI+%7C+MCP+Server;No-Code+Automation+with+n8n;Turning+Ideas+Into+AI+Powered+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Agents;LangChain+%7C+LangGraph+%7C+CrewAI;Python+%7C+FastAPI+%7C+MCP+Server;No-Code+Automation+with+n8n;Turning+Ideas+Into+AI+Powered+Systems" />
 </p>
 
 ---
