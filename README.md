@@ -10,10 +10,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🤖 I build **Intelligent AI Agents** that automate real business tasks & save 10+ hours/week
-- 🧠 Expert in **Multi-Agent Systems** using CrewAI & LangGraph
+- 🤖 I build **AI Agents** that automate real business tasks - lead handling, appointment booking, and answering from documents.
+- 🧠 Building Multi-Agent Systems using CrewAI & LangGraph
 - ⚙️ From **Code to No-Code**: Python to n8n - I do both
-- 🚀 Deploying scalable AI on **AWS, Railway, Render, Docker & Replit**
+- 🚀 Deploying scalable AI on **AWS, Railway, Render, Docker & Loveable**
 
 ---
 
